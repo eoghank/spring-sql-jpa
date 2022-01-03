@@ -1,6 +1,6 @@
 accelerator:
   displayName: Test Spring Boot JPA
-  description: Spring Boot application that accesses an SQL database using JPA.
+  description: Modified Spring Boot application that accesses an SQL database using JPA.
   iconUrl: https://raw.githubusercontent.com/sample-accelerators/icons/master/icon-data.png
   tags:
     - Java

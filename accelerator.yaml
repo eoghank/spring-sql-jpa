@@ -1,5 +1,5 @@
 accelerator:
-  displayName: Spring Boot JPA
+  displayName: Test Spring Boot JPA
   description: Spring Boot application that accesses an SQL database using JPA.
   iconUrl: https://raw.githubusercontent.com/sample-accelerators/icons/master/icon-data.png
   tags:
@@ -7,6 +7,7 @@ accelerator:
     - Spring
     - JPA
     - SQL
+    - beta4
 
 engine:
   merge:

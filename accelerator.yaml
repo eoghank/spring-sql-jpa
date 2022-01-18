@@ -9,6 +9,7 @@ accelerator:
     - SQL
     - beta4
     - custom
+    - newSample
 
 engine:
   merge:
